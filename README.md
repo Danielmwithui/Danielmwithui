@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java programming language<br>🌱 I’m currently learning more on Observability and better DevOps Practices<br>💬 Ask me about  Web Development, Git and Networks
+🔭 I’m currently working on Java programming language<br>🌱 I’m currently learning software engineering course at ALX<br>💬 Ask me about  Web Development, Git and Networks
 
 
 ## 🌐 Socials:
