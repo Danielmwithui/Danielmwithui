@@ -1,16 +1,22 @@
-### Hi there 👋
+💫 About Me:
+🔭 I’m currently working on Java programming language
+🌱 I’m currently learning more on Observability and better DevOps Practices
+💬 Ask me about Web Development, Git and Networks
 
-<!--
-**Danielmwithui/Danielmwithui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[Facebook](https://facebook.com/Daniel Mwithui) [Instagram](https://instagram.com/Daniel Mwithui) [LinkedIn](https://linkedin.com/in/Daniel Mwithui) Twitter
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ CSS3 HTML5 Java JavaScript Python PHP Heroku .Net MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+😂 Random Dev Meme
