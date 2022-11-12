@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java programming language<br>🌱 I’m currently learning software engineering course at ALX<br>💬 Ask me about  Web Development, Git and Networks
+🔭 I’m currently working on Java programming language<br>🌱 I’m currently learning software engineering course at ALX<br>🎓Computer Science Student at Machakos university<br>🎓Certified Google IT Support Specialist,Network Engineer(HCIA-Datacom) and Web Developer<br>💬 Ask me about  Web Development, Git and Networks
 
 
 ## 🌐 Socials:
